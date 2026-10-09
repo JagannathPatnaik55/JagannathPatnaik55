@@ -1,22 +1,26 @@
 # Hi there, I'm Jagannath Patnaik 👋 
 
-I am a versatile **Full-Stack Developer** specializing in **Java Backend Ecosystems** and the **MERN Stack**. I bridge the gap between heavy enterprise-grade systems and agile, modern web applications. 
+I am a highly versatile engineer with an extensive background spanning **Enterprise Java Ecosystems**, the **MERN Stack**, and **SAP ABAP Development**. I excel at bridging the gap between legacy corporate ERP environments, robust enterprise backend architectures, and high-performance, modern web applications.
 
-Right now, I am focusing on deep architectural logic while expanding my mobile and system-level knowledge through Android, Python, and C.
+Right now, I am continually sharpening my core full-stack skills while also exploring Android development, Python scripting, and system foundations in C.
 
 ---
 
 ### 🚀 About Me
-- 💼 **Core Focus:** Enterprise Java Frameworks & JavaScript/TypeScript (MERN) Full-Stack.
-- 📱 **Mobile & Scripting:** Actively designing Android applications and automation scripts with Python.
-- 🌱 **Deep Learning:** Refinement of foundational computer science practices via C Programming.
-- ⚡ **Philosophy:** Writing clean, testable, and highly modular code that scales.
+- 💼 **Core Focus:** SAP ABAP ERP Solutions, Enterprise Java Frameworks, and JavaScript/TypeScript (MERN) architectures.
+- 📱 **Mobile & Scripting:** Actively design native Android applications and build efficient automation scripts with Python.
+- 🌱 **Deep Learning:** Continuous refinement of low-level algorithms and foundational CS concepts via C Programming.
+- ⚡ **Philosophy:** Designing high-impact, maintainable backend workflows that sustain enterprise scalability.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-#### ☕ Enterprise & Java Ecosystem
+#### 💼 Enterprise & SAP Ecosystem
+![SAP](https://shields.io)
+![ABAP](https://shields.io)
+
+#### ☕ Core Java Ecosystem
 ![Java](https://shields.io)
 ![Spring Boot](https://shields.io)
 ![Hibernate](https://shields.io)
@@ -35,7 +39,7 @@ Right now, I am focusing on deep architectural logic while expanding my mobile a
 ---
 
 ### 📬 Let's Connect!
-Whether you want to discuss relational database optimization, RESTful API structures, or project collaborations—reach out!
+Whether you want to discuss SAP integrations, RESTful API microservices, or complex relational database modeling—let's chat!
 
 - 📧 **Email:** [jagannathpatnaik55@gmail.com](mailto:jagannathpatnaik55@gmail.com)
 - 💬 **WhatsApp:** [+91 9437277810](https://wa.me)
